@@ -15,8 +15,16 @@
   <img src="https://github.com/user-attachments/assets/67ab9299-e121-4f68-9b1d-d0320424aac0" width="120" /> <!-- Group 8 -->
 </p>
 
-
-
+### Dark Mode
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/679c602a-100f-4cf0-9d55-3bb84e2d2ada" width="120" /> <!-- Tasbeeh Dark -->
+  <img src="https://github.com/user-attachments/assets/5ddd07c5-1458-4529-8668-360d71e040fd" width="120" /> <!-- Sura Content Dark -->
+  <img src="https://github.com/user-attachments/assets/c381080a-2b89-47f4-b4a8-a3ff51a356fd" width="120" /> <!-- Sura Content 3 Dark -->
+  <img src="https://github.com/user-attachments/assets/587889f8-7af7-4e25-8593-ea1368dc83ad" width="120" /> <!-- Radio Dark -->
+  <img src="https://github.com/user-attachments/assets/e7f3a871-38ae-4a3e-bb9c-71b840bde7bd" width="120" /> <!-- Quran Dark -->
+  <img src="https://github.com/user-attachments/assets/55dde371-e467-48fe-9525-e6d473b45462" width="120" /> <!-- Quran 3 Dark -->
+  <img src="https://github.com/user-attachments/assets/5a4a4ad3-8624-4121-bec9-129184e21cc2" width="120" /> <!-- Splash Dark -->
+</p>
 
 ## Features
 - Digital Tasbih counter for easy use.
@@ -27,7 +35,7 @@
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/tasbih.git
+   git clone https://github.com/fadymonier/tasbih.git
    ```
 2. Navigate to the project directory:
    ```sh
@@ -42,5 +50,4 @@
    flutter run
    ```
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
